@@ -3,3 +3,5 @@ pull remote
 
 
 git gui test
+
+git push
